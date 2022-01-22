@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: seashell;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin: 60px;
+}
+
+table {
+    border: solid black 4px;
+    padding: 5px;
+    background-color: rgb(112, 145, 245);
+    border-collapse: collapse;
+    
+}
+
+.hyperlink {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+
+th {
+    height: 60px;
+}
+
+tr {
+    border-bottom: solid black 3px;
+}
+
+.htmlTag {
+    width: 120px;
+    border-right: solid black 3px;
+}
+
+.tagDescription {
+    width: 120px;
+    border-right: solid black 3px;
+    
+}
+
+.hyperlink {
+    width: 600px;
+}
+
+.toprow {
+    background-color: burlywood;
+}
+
+
