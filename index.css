@@ -9,8 +9,13 @@ body {
     justify-content: center;
 }
 
-div {
-    margin: 60px;
+.pageTitle {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.midTable {
+    margin: 40px auto;
 }
 
 table {
@@ -31,7 +36,7 @@ p {
 }
 
 th {
-    height: 60px;
+    height: 40px;
 }
 
 tr {
